@@ -1,7 +1,7 @@
-# Hi, I'm Tokyo or amys! 👋
-## 🚀 About Me
+# Hi, 👋
+##  About Me
 
-I'm a c++ developer...
+I'm a c++ developer
 and enjoy juggin and finnesin 
 
 

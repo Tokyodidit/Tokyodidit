@@ -14,15 +14,5 @@ and enjoy juggin and finnesin
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
 </a>
     
-- 👩‍💻 I'm currently working on My own version of NatiCord and upgrading and updating my csgo movement cheat
-
-- 🧠 I'm currently learning... C++ Html and Css
-
-
-- 🤔 I'm looking for help with... memory leaks and optimization 
-
-- 💬 Ask me about... anything to do with c++
-
-- 📫 How to reach me... https://t.me/tokyodidit or Discord : tokyosmain
 
 

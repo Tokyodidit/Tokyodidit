@@ -1,7 +1,7 @@
 # Hi, 👋
 ##  About Me
 
-I'm a c++ developer
+fuck the opps i be trappin fr while fuckin up yo payloads 
 and enjoy juggin and finnesin 
 
 
